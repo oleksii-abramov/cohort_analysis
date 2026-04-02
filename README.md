@@ -92,5 +92,3 @@ At the same time, low-value customers show relatively weak retention, with low r
 - Analyze customer behavior before and during the repeat purchase stage  
 - Develop strategies to **convert low-value and medium-value customers** into repeat buyers  
 
-## Personal Reflections
-
